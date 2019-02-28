@@ -1,2 +1,5 @@
-!remove hotmail right side ad
+! Remove hotmail right side ad
 outlook.live.com##._29KqToSCcntvfbDv_3xuuh > ._1_ag99JsBHxI6S4FP5ayPv
+
+! Remove ad image
+||www.baeldung.com/wp-content/uploads/2018/08/RWS-1-k.jpg$image
